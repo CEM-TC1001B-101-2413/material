@@ -14,7 +14,7 @@ def suma2(x : float, y : float):
     print(f"El resultado de la suma es: {resultado}")
 
 # Con parámetros y con valor de retorno
-def suma3(x : float, y : float):
+def suma3(x : float, y : float) -> float:
     resultado = x + y
     return resultado
 

@@ -1,0 +1,326 @@
+code_cnuc;uc_name;monitoring_prodes;prodes_2016;prodes_2015;prodes_2014;prodes_2013;prodes_2012
+cnuc;uc;prodes;2016;2015;2014;2013;2012
+0000.00.0001;APA Anhatomirim;No;;;;;
+0000.00.1521;APA Bacia Hidrografica do Rio Paraiba do Sul;No;;;;;
+0000.00.0007;APA Barra do Rio Mamanguape;No;;;;;
+0000.00.0020;APA Carste da Lagoa Santa;No;;;;;
+0000.00.0002;APA Cavernas do Peruacu;No;;;;;
+0000.00.0008;APA Chapada do Araripe;No;;;;;
+0000.00.1912;APA Costa das Algas;No;;;;;
+0000.00.0009;APA Costa dos Corais;No;;;;;
+0000.00.0003;APA da Bacia do Rio Descoberto;No;;;;;
+0000.00.0004;APA da Bacia do Rio Sao Bartolomeu;No;;;;;
+0000.00.0005;APA da Bacia do Rio Sao Joao  Mico_Leao_Dourado;No;;;;;
+0000.00.0006;APA da Baleia Franca;No;;;;;
+0000.00.0025;APA das Ilhas e Varzeas do Rio Parana;No;;;;;
+0000.00.0028;APA das Nascentes do Rio Vermelho;No;;;;;
+0000.00.0013;APA de Cairucu;No;;;;;
+0000.00.0014;APA de Cananeia_Iguape_Peruibe;No;;;;;
+0000.00.0015;APA de Fernando de Noronha_Rocas_Sao Pedro_e_Sao Paulo;No;;;;;
+0000.00.0016;APA de Guapi_Mirim;No;;;;;
+0000.00.0017;APA de Guaraquecaba;No;;;;;
+0000.00.0010;APA de Petropolis;No;;;;;
+0000.00.0018;APA de Piacabucu;No;;;;;
+0000.00.0019;APA Delta do Parnaiba;No;;;;;
+0000.00.0022;APA do Igarape Gelado;Yes;0,1;;;9,9;
+0000.00.0023;APA do Planalto Central;No;;;;;
+0000.00.0268;APA do Tapajos;Yes;3.144,00;3.437,90;2.843,10;3.170,20;2.267,60
+0000.00.3407;APA dos Campos de Manicore;Yes;11,6;;;;
+0000.00.0021;APA Ibirapuita;No;;;;;
+0000.00.0024;APA Meandros do Araguaia;Yes;7,9;2,5;;1,2;10,6
+0000.00.0027;APA Morro da Pedreira;No;;;;;
+0000.00.0029;APA Serra da Ibiapaba;No;;;;;
+0000.00.0011;APA Serra da Mantiqueira;No;;;;;
+0000.00.1683;APA Serra da Meruoca;No;;;;;
+0000.00.0012;APA Serra da Tabatinga;No;;;;;
+0000.00.0030;ARIE Buriti de Vassununga;No;;;;;
+0000.00.0031;ARIE Capetinga_Taquara;No;;;;;
+0000.00.0032;ARIE Cerrado Pe_de_Gigante;No;;;;;
+0000.00.0035;ARIE Floresta da Cicuta;No;;;;;
+0000.00.0036;ARIE Ilha do Ameixal;No;;;;;
+0000.00.0037;ARIE Ilhas da Queimada Pequena e Queimada Grande;No;;;;;
+0000.00.0038;ARIE Javari_Buriti;No;;;;;
+0000.00.0039;ARIE Manguezais da Foz do Rio Mamanguape;No;;;;;
+0000.00.0040;ARIE Mata de Santa Genebra;No;;;;;
+0000.00.0041;ARIE Matao de Cosmopolis;No;;;;;
+0000.00.0043;ARIE Projeto Dinamica Biologica de Fragmentos Florestais;Yes;;;;;
+0000.00.0044;ARIE Seringal Nova Esperanca;Yes;78,4;89,4;137;31,4;236
+0000.00.0045;ARIE Serra da Abelha e Rio da Prata;No;;;;;
+0000.00.3131;ESEC Alto Maues;No;;;;;
+0000.00.0263;ESEC da Guanabara;No;;;;;
+0000.00.0261;ESEC da Mata Preta;No;;;;;
+0000.00.0075;ESEC da Serra das Araras;No;;;;;
+0000.00.0047;ESEC da Terra do Meio;Yes;853,3;307,2;124,6;57,5;406,8
+0000.00.0048;ESEC de Aiuaba;No;;;;;
+0000.00.0050;ESEC de Aracuri_Esmeralda;No;;;;;
+0000.00.0051;ESEC de Caracarai;Yes;34,8;;32,5;;
+0000.00.0052;ESEC de Carijos;No;;;;;
+0000.00.0053;ESEC de Cunia;Yes;8,6;;;16,7;50,3
+0000.00.0054;ESEC de Guaraquecaba;No;;;;;
+0000.00.0055;ESEC de Ique;Yes;;;;23,8;
+0000.00.0056;ESEC de Jutai_Solimoes;Yes;;;;;
+0000.00.0057;ESEC de Maraca;Yes;;;;;
+0000.00.0058;ESEC de Maraca Jipioca;Yes;;;;;
+0000.00.0059;ESEC de Murici;No;;;;;
+0000.00.0061;ESEC de Pirapitinga;No;;;;;
+0000.00.0062;ESEC de Taiama;No;;;;;
+0000.00.0063;ESEC de Tamoios;No;;;;;
+0000.00.0065;ESEC de Urucui_Una;No;;;;;
+0000.00.0066;ESEC do Castanhao;No;;;;;
+0000.00.0067;ESEC do Jari;Yes;;;;;
+0000.00.0069;ESEC do Serido;No;;;;;
+0000.00.0070;ESEC do Taim;No;;;;;
+0000.00.0071;ESEC dos Tupiniquins;No;;;;;
+0000.00.0072;ESEC Juami_Japura;Yes;;;;;
+0000.00.0073;ESEC Mico_Leao_Preto;No;;;;;
+0000.00.0060;ESEC Niquia;Yes;;;;;
+0000.00.0074;ESEC Raso da Catarina;No;;;;;
+0000.00.0068;ESEC Rio Acre;No;;;;;
+0000.00.0076;ESEC Serra Geral do Tocantins;No;;;;;
+0000.00.0064;ESEC Tupinambas;No;;;;;
+0000.00.0128;FLONA da Mata Grande;No;;;;;
+0000.00.0132;FLONA da Restinga de Cabedelo;No;;;;;
+0000.00.0082;FLONA de Acu;No;;;;;
+0000.00.0083;FLONA de Altamira;Yes;685,2;37,4;2.612,30;2.469,60;5.064,30
+0000.00.0084;FLONA de Anaua;Yes;;;;;
+0000.00.0077;FLONA de Assungui;No;;;;;
+0000.00.0085;FLONA de Balata_Tufari;Yes;32,5;7;48;15;17,4
+0000.00.0086;FLONA de Brasilia;No;;;;;
+0000.00.0078;FLONA de Cacador;No;;;;;
+0000.00.0087;FLONA de Canela;No;;;;;
+0000.00.0079;FLONA de Capao Bonito;No;;;;;
+0000.00.0088;FLONA de Carajas;Yes;73,6;137,6;108,5;19,9;142,5
+0000.00.0089;FLONA de Caxiuana;Yes;17,8;;25,8;8,2;26,6
+0000.00.0080;FLONA de Chapeco;No;;;;;
+0000.00.0081;FLONA de Contendas do Sincora;No;;;;;
+0000.00.0090;FLONA de Cristopolis;No;;;;;
+0000.00.0091;FLONA de Goytacazes;No;;;;;
+0000.00.0092;FLONA de Humaita;Yes;;;;;
+0000.00.0093;FLONA de Ibirama;No;;;;;
+0000.00.0094;FLONA de Ipanema;No;;;;;
+0000.00.0125;FLONA de Irati;No;;;;;
+0000.00.0095;FLONA de Itaituba I;Yes;46,6;34,1;;36,3;0,6
+0000.00.0096;FLONA de Itaituba II;Yes;394,4;284,1;281,4;416,1;818,4
+0000.00.0097;FLONA de Jacunda;Yes;16,7;;5,9;;
+0000.00.0098;FLONA de Lorena;No;;;;;
+0000.00.0099;FLONA de Mulata;Yes;2,4;;9,4;0,7;7,8
+0000.00.1605;FLONA de Negreiros;No;;;;;
+0000.00.0100;FLONA de Nisia Floresta;No;;;;;
+0000.00.0101;FLONA de Pacotuba;No;;;;;
+0000.00.0102;FLONA de Palmares;No;;;;;
+0000.00.0103;FLONA de Paraopeba;No;;;;;
+0000.00.0129;FLONA de Passa Quatro;No;;;;;
+0000.00.0130;FLONA de Passo Fundo;No;;;;;
+0000.00.0104;FLONA de Pau_Rosa;Yes;;;6,4;1,4;
+0000.00.0131;FLONA de Pirai do Sul;No;;;;;
+0000.00.0105;FLONA de Ritapolis;No;;;;;
+0000.00.0106;FLONA de Roraima;Yes;143,7;10;50,8;193,3;26,4
+0000.00.0107;FLONA de Santa Rosa do Purus;Yes;9,4;;59,9;0,3;85,2
+0000.00.0108;FLONA de Sao Francisco;Yes;;;;;
+0000.00.0133;FLONA de Sao Francisco de Paula;No;;;;;
+0000.00.0109;FLONA de Saraca_Taquera;Yes;378,1;498,5;473,6;326,6;246,3
+0000.00.0110;FLONA de Silvania;No;;;;;
+0000.00.0111;FLONA de Sobral;No;;;;;
+0000.00.0112;FLONA de Tefe;Yes;292,2;56,2;570;55,5;3,4
+0000.00.0134;FLONA de Tres Barras;No;;;;;
+0000.00.3408;FLONA de Urupadi;Yes;23,2;54,8;;;
+0000.00.0271;FLONA do Amana;Yes;453,5;215,3;297,2;91,9;247,7
+0000.00.0113;FLONA do Amapa;Yes;;;;;
+0000.00.0114;FLONA do Amazonas;Yes;29,9;31,3;12,6;;33,1
+0000.00.0115;FLONA do Araripe_Apodi;No;;;;;
+0000.00.3409;FLONA do Aripuana;Yes;38,2;31,1;;;
+0000.00.0116;FLONA do Bom Futuro;Yes;117,6;95,9;141,3;435,4;108,9
+0000.00.0270;FLONA do Crepori;Yes;163,3;73,9;11,2;8,4;7,1
+0000.00.0269;FLONA do Ibura;No;;;;;
+0000.00.1612;FLONA do Iquiri;Yes;48,6;77,9;14,1;139,2;61,6
+0000.00.0117;FLONA do Itacaiunas;Yes;53,7;17,8;7;30,4;14,9
+0000.00.0266;FLONA do Jamanxim;Yes;7.305,80;9.250,40;4.922,50;6.462,40;2.975,90
+0000.00.0118;FLONA do Jamari;Yes;;;0;;
+0000.00.0119;FLONA do Jatuarana;Yes;;;;;
+0000.00.0120;FLONA do Macaua;Yes;;18;;;
+0000.00.0121;FLONA do Purus;Yes;7,7;24,1;58,7;21,2;6,8
+0000.00.0122;FLONA do Rio Preto;No;;;;;
+0000.00.0123;FLONA do Tapajos;Yes;12,8;18,5;18,3;15,4;6,8
+0000.00.0124;FLONA do Tapirape_Aquiri;Yes;132,4;190,1;126,8;100,3;6,3
+0000.00.0265;FLONA do Trairao;Yes;;7,3;62,9;29,8;
+0000.00.0126;FLONA Mapia_Inauini;Yes;;;;;
+0000.00.0127;FLONA Mario Xavier;No;;;;;
+0000.00.0034;MONA das Ilhas Cagarras;No;;;;;
+0000.00.1812;MONA do Rio Sao Francisco;No;;;;;
+0000.00.0181;MONA dos Pontoes Capixabas;No;;;;;
+0000.00.0135;PARNA Cavernas do Peruacu;No;;;;;
+0000.00.0136;PARNA da Amazonia;Yes;111,1;19,9;132,7;112,7;54,5
+0000.00.0272;PARNA da Chapada das Mesas;No;;;;;
+0000.00.0137;PARNA da Chapada Diamantina;No;;;;;
+0000.00.0138;PARNA da Chapada dos Guimaraes;Yes;;;;;
+0000.00.0139;PARNA da Chapada dos Veadeiros;No;;;;;
+0000.00.2633;PARNA da Furna Feia;No;;;;;
+0000.00.0140;PARNA da Lagoa do Peixe;No;;;;;
+0000.00.0141;PARNA da Restinga de Jurubatiba;No;;;;;
+0000.00.0142;PARNA da Serra da Bocaina;No;;;;;
+0000.00.0143;PARNA da Serra da Bodoquena;No;;;;;
+0000.00.0144;PARNA da Serra da Canastra;No;;;;;
+0000.00.0145;PARNA da Serra da Capivara;No;;;;;
+0000.00.0188;PARNA da Serra da Cutia;Yes;;;;95,2;
+0000.00.0146;PARNA da Serra das Confusoes;No;;;;;
+0000.00.1909;PARNA da Serra das Lontras;No;;;;;
+0000.00.0148;PARNA da Serra do Cipo;No;;;;;
+0000.00.0149;PARNA da Serra do Divisor;Yes;100,1;14,5;134,4;71,4;45,9
+0000.00.3136;PARNA da Serra do Gandarela;No;;;;;
+0000.00.0150;PARNA da Serra do Itajai;No;;;;;
+0000.00.0151;PARNA da Serra do Pardo;Yes;1,5;;;;18,6
+0000.00.0152;PARNA da Serra dos Orgaos;No;;;;;
+0000.00.0153;PARNA da Serra Geral;No;;;;;
+0000.00.0154;PARNA da Tijuca;No;;;;;
+0000.00.0262;PARNA das Araucarias;No;;;;;
+0000.00.0155;PARNA das Emas;No;;;;;
+0000.00.0156;PARNA das Nascentes do Rio Parnaiba;No;;;;;
+0000.00.0157;PARNA das Sempre_Vivas;No;;;;;
+0000.00.0049;PARNA de Anavilhanas;Yes;;;;;
+0000.00.0158;PARNA de Aparados da Serra;No;;;;;
+0000.00.1908;PARNA de Boa Nova;No;;;;;
+0000.00.0159;PARNA de Brasilia;No;;;;;
+0000.00.0160;PARNA de Caparao;No;;;;;
+0000.00.0161;PARNA de Ilha Grande;No;;;;;
+0000.00.0184;PARNA de Itatiaia;No;;;;;
+0000.00.0162;PARNA de Jericoacoara;No;;;;;
+0000.00.0163;PARNA de Pacaas Novos;Yes;16,7;;;;
+0000.00.0164;PARNA de Saint_Hilaire_Lange;No;;;;;
+0000.00.0165;PARNA de Sao Joaquim;No;;;;;
+0000.00.0166;PARNA de Sete Cidades;No;;;;;
+0000.00.0167;PARNA de Ubajara;No;;;;;
+0000.00.0171;PARNA Descobrimento;No;;;;;
+0000.00.3410;PARNA do Acari;No;;;;;
+0000.00.1910;PARNA do Alto Cariri;No;;;;;
+0000.00.0168;PARNA do Araguaia;Yes;;;117,2;589,7;576,3
+0000.00.0169;PARNA do Cabo Orange;Yes;;;47,1;10,7;
+0000.00.0170;PARNA do Catimbau;No;;;;;
+0000.00.0172;PARNA do Iguacu;No;;;;;
+0000.00.0267;PARNA do Jamanxim;Yes;236,7;595,6;203,6;518,7;179,6
+0000.00.0173;PARNA do Jau;Yes;16,3;;27,9;37;21,9
+0000.00.0281;PARNA do Juruena;Yes;7,6;5,4;;34,9;7,2
+0000.00.0182;PARNA do Monte Pascoal;No;;;;;
+0000.00.0174;PARNA do Monte Roraima;Yes;;;6,6;;
+0000.00.0175;PARNA do Pantanal Mato_Grossense;No;;;;;
+0000.00.0176;PARNA do Pau Brasil;No;;;;;
+0000.00.0177;PARNA do Pico da Neblina;Yes;16,1;9,7;6,6;20,6;25,2
+0000.00.0264;PARNA do Rio Novo;Yes;293,3;101,8;75;64,1;11,4
+0000.00.0178;PARNA do Superagui;No;;;;;
+0000.00.0179;PARNA do Virua;Yes;;;;;
+0000.00.3519;PARNA dos Campos Ferruginosos;Yes;105,1;;;;
+0000.00.0284;PARNA dos Campos Amazonicos;Yes;1,1;36,2;;190,4;48,6
+0000.00.0277;PARNA dos Campos Gerais;No;;;;;
+0000.00.0180;PARNA dos Lencois Maranhenses;No;;;;;
+0000.00.0183;PARNA Grande Sertao Veredas;No;;;;;
+0000.00.3137;PARNA Guaricana;No;;;;;
+0000.00.1633;PARNA Mapinguari;Yes;47,9;41;50,1;290,9;1.024,30
+0000.00.2874;PARNA Marinho das Ilhas dos Currais;No;;;;;
+0000.00.0186;PARNA Marinho de Fernando de Noronha;No;;;;;
+0000.00.0185;PARNA Marinho dos Abrolhos;No;;;;;
+0000.00.0187;PARNA Montanhas do Tumucumaque;Yes;;6,7;;;
+0000.00.1626;PARNA Nascentes do Lago Jari;Yes;;;;;
+0000.00.0189;PARNA Serra da Mocidade;Yes;;;;;
+0000.00.0147;PARNA Serra de Itabaiana;No;;;;;
+0000.00.0218;RDS de Itatupa_Baquia;Yes;;;;;
+0000.00.3135;RDS Nascentes Geraizeiras;No;;;;;
+0000.00.0191;REBIO Augusto Ruschi;No;;;;;
+0000.00.2634;REBIO Bom Jesus;No;;;;;
+0000.00.0192;REBIO da Contagem;No;;;;;
+0000.00.0193;REBIO da Mata Escura;No;;;;;
+0000.00.0276;REBIO das Araucarias;No;;;;;
+0000.00.0275;REBIO das Perobas;No;;;;;
+0000.00.0195;REBIO de Comboios;No;;;;;
+0000.00.0197;REBIO de Pedra Talhada;No;;;;;
+0000.00.0215;REBIO de Poco das Antas;No;;;;;
+0000.00.0198;REBIO de Saltinho;No;;;;;
+0000.00.0199;REBIO de Santa Isabel;No;;;;;
+0000.00.0200;REBIO de Serra Negra;No;;;;;
+0000.00.0201;REBIO de Sooretama;No;;;;;
+0000.00.0202;REBIO de Una;No;;;;;
+0000.00.0194;REBIO do Abufari;Yes;10,2;;13,4;18,8;
+0000.00.0203;REBIO do Atol das Rocas;No;;;;;
+0000.00.0204;REBIO do Corrego do Veado;No;;;;;
+0000.00.0205;REBIO do Corrego Grande;No;;;;;
+0000.00.0206;REBIO do Guapore;Yes;;;;10,9;
+0000.00.0207;REBIO do Gurupi;Yes;459,7;577,7;50;669,9;839,7
+0000.00.0208;REBIO do Jaru;Yes;;13,2;;;11,7
+0000.00.0209;REBIO do Lago Piratuba;Yes;;;;;
+0000.00.3411;REBIO do Manicore;Yes;;27,1;;;
+0000.00.0210;REBIO do Rio Trombetas;Yes;13,1;;;;
+0000.00.0211;REBIO do Tapirape;Yes;;;;4,5;
+0000.00.0212;REBIO do Tingua;No;;;;;
+0000.00.0213;REBIO do Uatuma;Yes;;;;;
+0000.00.0196;REBIO Guaribas;No;;;;;
+0000.00.0214;REBIO Marinha do Arvoredo;No;;;;;
+0000.00.0216;REBIO Nascentes da Serra do Cachimbo;Yes;1.009,20;1.976,10;422,1;31,1;32,3
+0000.00.0217;REBIO Uniao;No;;;;;
+0000.00.1563;RESEX Acau_Goiana;No;;;;;
+0000.00.0274;RESEX Alto Tarauaca;Yes;16,3;6,6;176,6;3,5;157,5
+0000.00.0285;RESEX Arapixi;Yes;44,7;8,3;28,9;16,8;10,4
+0000.00.0273;RESEX Arioca Pruana;Yes;85,1;13,2;33,9;55,5;51,6
+0000.00.0220;RESEX Auati_Parana;Yes;;7,7;;6,4;
+0000.00.0221;RESEX Barreiro das Antas;Yes;;;;;
+0000.00.1564;RESEX Chapada Limpa;No;;;;;
+0000.00.0222;RESEX Chico Mendes;Yes;2.947,20;1.537,90;2.170,60;1.047,20;1.226,30
+0000.00.0223;RESEX Chocoare_Mato Grosso;Yes;;;;;
+0000.00.0226;RESEX da Mata Grande;Yes;8,5;41,9;30,6;6,8;88
+0000.00.0253;RESEX de Canavieiras;No;;;;;
+0000.00.1808;RESEX de Cassuruba;No;;;;;
+0000.00.0279;RESEX de Cururupu;Yes;;;1,7;;
+0000.00.0286;RESEX de Recanto das Araras de Terra Ronca;No;;;;;
+0000.00.0228;RESEX de Sao Joao da Ponta;Yes;0,5;;1,4;;
+0000.00.1517;RESEX do Alto Jurua;Yes;169;18,3;575,1;150,9;305,7
+0000.00.0230;RESEX do Baixo Jurua;Yes;11,3;8,8;81,6;9,5;
+0000.00.0231;RESEX do Batoque;No;;;;;
+0000.00.0232;RESEX do Cazumba_Iracema;Yes;244,3;51,9;170,2;177,1;187,2
+0000.00.1519;RESEX do Ciriaco;Yes;;3,6;22,5;;
+0000.00.0240;RESEX do Extremo Norte do Tocantins;Yes;;;;;
+0000.00.0242;RESEX do Lago do Capana Grande;Yes;6,4;;;;41,6
+0000.00.0233;RESEX do Lago do Cunia;Yes;;;;;
+0000.00.0234;RESEX do Mandira;No;;;;;
+0000.00.0235;RESEX do Medio Jurua;Yes;35,1;7,4;22,5;14,3;
+0000.00.1606;RESEX do Medio Purus;Yes;191,9;6,8;24,9;89;7,6
+0000.00.1520;RESEX do Quilombo Flexal;Yes;;;;;
+0000.00.1518;RESEX do Rio Cajari;Yes;189,9;122,8;278,2;107,7;136,1
+0000.00.0238;RESEX do Rio do Cautario;Yes;;;;443,4;
+0000.00.0239;RESEX do Rio Jutai;Yes;;6,6;23,6;21,3;20,3
+0000.00.0256;RESEX do Rio Ouro Preto;Yes;169;255;245,2;428,7;126,7
+0000.00.0288;RESEX Gurupa_Melgaco;Yes;;;6,5;;46,1
+0000.00.0241;RESEX Ipau_Anilzinho;Yes;72,9;35;8,6;58,4;74,9
+0000.00.1628;RESEX Ituxi;Yes;28,5;33,9;13,1;61,9;317,7
+0000.00.0287;RESEX Lago do Cedro;No;;;;;
+0000.00.0243;RESEX Mae Grande de Curuca;Yes;0;;;6,5;
+0000.00.0244;RESEX Mapua;Yes;20,8;0,6;;32,9;
+0000.00.0227;RESEX Maracana;Yes;0,1;5;;13,1;5,4
+0000.00.0247;RESEX Marinha Arai_Peroba;Yes;;0,9;;;
+0000.00.0248;RESEX Marinha Caete_Taperacu;Yes;;;;;
+0000.00.3134;RESEX Marinha Cuinarana;Yes;;2,1;;;
+0000.00.0245;RESEX Marinha da Baia de Iguape;No;;;;;
+0000.00.0246;RESEX Marinha da Lagoa do Jequia;No;;;;;
+0000.00.0249;RESEX Marinha de Gurupi_Piria;Yes;1,2;;;;0
+0000.00.0254;RESEX Marinha de Soure;Yes;;;;;
+0000.00.0251;RESEX Marinha do Arraial do Cabo;No;;;;;
+0000.00.0252;RESEX Marinha do Corumbau;No;;;;;
+0000.00.0225;RESEX Marinha do Delta do Parnaiba;No;;;;;
+0000.00.3133;RESEX Marinha Mestre Lucindo;Yes;;38,3;9,8;;
+0000.00.3132;RESEX Marinha Mocapajuba;No;;;;;
+0000.00.0255;RESEX Marinha Pirajubae;No;;;;;
+0000.00.0250;RESEX Marinha Tracuateua;Yes;;;;;
+0000.00.1809;RESEX Prainha do Canto Verde;No;;;;;
+0000.00.1810;RESEX Renascer;Yes;191,4;475,6;126,4;229,9;69,5
+0000.00.0280;RESEX Rio Iriri;Yes;;;;11;11,2
+0000.00.0283;RESEX Rio Unini;Yes;;;40,9;7,8;
+0000.00.1635;RESEX Rio Xingu;Yes;13;;7,2;9,9;25,9
+0000.00.0257;RESEX Riozinho da Liberdade;Yes;115,7;7,1;39,2;63,1;107,1
+0000.00.0258;RESEX Riozinho do Anfrisio;Yes;117,7;199,4;226,9;;111,8
+0000.00.0259;RESEX Tapajos_Arapiuns;Yes;30,7;50,7;370,7;67,1;14,1
+0000.00.0282;RESEX Terra Grande_Pracuuba;Yes;41,3;;2,3;60,7;
+0000.00.0260;RESEX Verde Para Sempre;Yes;262,7;489,3;743,5;242,6;242,6
+0000.00.0219;REVIS das Veredas do Oeste Baiano;No;;;;;
+0000.00.1907;REVIS de Boa Nova;No;;;;;
+0000.00.1911;REVIS de Santa Cruz;No;;;;;
+0000.00.1880;REVIS de Una;No;;;;;
+0000.00.3432;REVIS do Arquipelago de Alcatrazes;No;;;;;
+0000.00.1813;REVIS do Rio dos Frades;No;;;;;
+0000.00.0278;REVIS dos Campos de Palmas;No;;;;;
+0000.00.0190;REVIS Ilha dos Lobos;No;;;;;

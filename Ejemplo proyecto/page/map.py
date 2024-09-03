@@ -10,5 +10,9 @@ df = cargar_datos_mapa()
 
 st.title("Ejemplo de mapa")
 
-st.map(df, latitude="Latitud", longitude="Longitud")
+st.map(df,
+       latitude="Latitud",
+       longitude="Longitud",
+       color="Color",
+       size=100)
 

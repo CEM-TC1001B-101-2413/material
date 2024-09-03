@@ -1,33 +1,33 @@
-Estado,Latitud,Longitud
-Aguascalientes,21.8823,-102.2826
-Baja California,32.6246,-115.4523
-Baja California Sur,24.1444,-110.3005
-Campeche,19.8302,-90.5349
-Chiapas,16.7569,-93.1292
-Chihuahua,28.6328,-106.0691
-Coahuila,27.0587,-101.7068
-Colima,19.2452,-103.7241
-Ciudad de México,19.4326,-99.1332
-Durango,24.0277,-104.6532
-Guanajuato,21.019,-101.2574
-Guerrero,17.4392,-99.5451
-Hidalgo,20.0911,-98.7624
-Jalisco,20.6597,-103.3496
-México,19.4969,-99.7233
-Michoacán,19.5665,-101.7068
-Morelos,18.6813,-99.1013
-Nayarit,21.7514,-104.8455
-Nuevo León,25.6866,-100.3161
-Oaxaca,17.0732,-96.7266
-Puebla,19.0414,-98.2063
-Querétaro,20.5888,-100.3899
-Quintana Roo,19.1817,-88.4791
-San Luis Potosí,22.1566,-100.9855
-Sinaloa,24.8091,-107.394
-Sonora,29.0729,-110.9559
-Tabasco,17.9892,-92.9291
-Tamaulipas,23.7417,-99.145
-Tlaxcala,19.3139,-98.2404
-Veracruz,19.1738,-96.1342
-Yucatán,20.7099,-89.0943
-Zacatecas,22.7709,-102.5832
+Estado,Latitud,Longitud,Color
+Aguascalientes,21.8823,-102.2826,#03fc41
+Baja California,32.6246,-115.4523,#fc0303
+Baja California Sur,24.1444,-110.3005,#fc0303
+Campeche,19.8302,-90.5349,#03d7fc
+Chiapas,16.7569,-93.1292,#03d7fc
+Chihuahua,28.6328,-106.0691,#fc0303
+Coahuila,27.0587,-101.7068,#fc0303
+Colima,19.2452,-103.7241,#03fc41
+Ciudad de México,19.4326,-99.1332,#03fc41
+Durango,24.0277,-104.6532,#fc0303
+Guanajuato,21.019,-101.2574,#03fc41
+Guerrero,17.4392,-99.5451,#03d7fc
+Hidalgo,20.0911,-98.7624,#03fc41
+Jalisco,20.6597,-103.3496,#03fc41
+México,19.4969,-99.7233,#03fc41
+Michoacán,19.5665,-101.7068,#03fc41
+Morelos,18.6813,-99.1013,#03fc41
+Nayarit,21.7514,-104.8455,#03fc41
+Nuevo León,25.6866,-100.3161,#fc0303
+Oaxaca,17.0732,-96.7266,#03d7fc
+Puebla,19.0414,-98.2063,#03fc41
+Querétaro,20.5888,-100.3899,#03fc41
+Quintana Roo,19.1817,-88.4791,#03d7fc
+San Luis Potosí,22.1566,-100.9855,#03d7fc
+Sinaloa,24.8091,-107.394,#fc0303
+Sonora,29.0729,-110.9559,#fc0303
+Tabasco,17.9892,-92.9291,#03d7fc
+Tamaulipas,23.7417,-99.145,#fc0303
+Tlaxcala,19.3139,-98.2404,#03d7fc
+Veracruz,19.1738,-96.1342,#03fc41
+Yucatán,20.7099,-89.0943,#03d7fc
+Zacatecas,22.7709,-102.5832,#03d7fc
